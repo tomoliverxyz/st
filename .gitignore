@@ -1,0 +1,8 @@
+# build files
+*.o
+
+# st executable
+st
+
+# config file created by make
+config.h
